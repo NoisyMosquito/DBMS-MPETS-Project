@@ -1,5 +1,5 @@
 
-  <h1>🌊 ocean observer <span class="sdg-tag">SDG 14</span></h1>
+  <h1>🌊 ocean observer</h1>
 
   <p>this project was developed as part of the <strong>Database Management Systems</strong> course to showcase database design, SQL queries, and real-world application aligned with the <strong>UN SDG 14: Life Below Water</strong>.</p>
 
