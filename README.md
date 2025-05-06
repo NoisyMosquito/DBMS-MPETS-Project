@@ -53,10 +53,5 @@ Plantation_Log(Log_ID, Species_ID, Site, Plantation_Date, Growth_Percent)
     <li><a href="https://www.noaa.gov" target="_blank">NOAA - Ocean Data</a></li>
   </ul>
 
-  <footer>
-    <hr/>
-    <p style="text-align:center;">Made with 💙 for DBMS course — aligned with SDG 14</p>
-  </footer>
-
 </body>
 </html>
